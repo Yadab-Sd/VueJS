@@ -1,0 +1,21 @@
+*{
+  margin:0;
+  padding: 0;
+}
+html{
+  background: linear-gradient(30deg, #476ace 30%, #9c359c) no-repeat;
+  width: 100%;
+  height:100%;
+}
+.containerr{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2rem;
+  border:1px solid rgba(0,0,0,0.1);
+  border-radius:5px;
+  width:40%;
+  background: rgba(255,255,255,.9);
+  box-shadow: 2px 2px 5px rgba(0,0,0,.1);
+  margin:50px auto;
+}
